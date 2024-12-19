@@ -28,7 +28,7 @@ class SecondPage extends StatelessWidget {
               ),
               const SizedBox(height: 25),
               QrImageView(
-                data: Url.inherentce.secondUrl,
+                data: Url.inherentce.url,
                 size: 200,
                 backgroundColor: Colors.white,
               ),

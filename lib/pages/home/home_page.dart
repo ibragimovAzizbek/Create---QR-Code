@@ -44,7 +44,7 @@ class _QRHomePageState extends State<QRHomePage> {
               icon: const Icon(Icons.favorite, color: Colors.white),
               onPressed: () {
                 setState(() {
-                  _qrData = Url.inherentce.url;
+                  _qrData = Url.inherentce.secondUrl;
                 });
               },
               style: ElevatedButton.styleFrom(

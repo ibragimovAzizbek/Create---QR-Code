@@ -6,4 +6,6 @@ class Url {
   Url._init();
 
   String url = "https://youtu.be/chE5RIAujBc?si=U7F3rhZzGPo6YuwZ";
+  String secondUrl =
+      "https://www.instagram.com/reel/DDuEvvsOSjE/?igsh=czBnMXpidnNoenJs";
 }
